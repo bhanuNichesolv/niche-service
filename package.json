@@ -6,6 +6,10 @@
   "scripts": {
     "dev": "nodemon src/index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhanuNichesolv/niche-service.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
