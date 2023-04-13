@@ -1,4 +1,4 @@
-require("dotenv").config();
+// require("dotenv").config();
 const axios = require("axios");
 const userService = async (url = "", payload = "", token = "") => {
   url = url || process.env.BASE_URL;
